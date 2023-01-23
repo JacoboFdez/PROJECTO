@@ -31,3 +31,9 @@ On top we can make us an idea about top 10 games on steam by rating.
 ·Webscrapping was made on IMDB website who give us information about all titles,genre and rating which users give to us.
 ·The following libraries are used: Os, Pandas, Sys, Requests, BeautifulSoup and Seaborn.
 ![](images/Steam-Mosaic-Games.webp)
+
+
+# CONCLUSIONS
+As we can see in this project, a large majority of the titles offered by the platform are both developed and published by themselves.
+We can also see that the action genre stands out above any other.
+![](images/BOM.jpg)
