@@ -14,3 +14,8 @@ def porcentaje_nulos(a):
 
 def borrar_duplicados(a):
     return (a).drop_duplicates()
+
+def informacion(a):
+    print("shape:",a.shape)
+    print("description:",a.describe().T)
+    print("null:",a.isnull().sum())
