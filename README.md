@@ -10,7 +10,7 @@ In order to enjoy all these services, it is necessary to be registered with the 
 
 # OBJECTIVES
 ·This is the first project of the Data Analytics Bootcamp on Ironhack.
-·The target of this project is extract info from datasets from Kaggle and clean it. 
+·The target of this project is extract info from datasets from Kaggle, clean it,and provide extra info taken from scrapping. 
 ·in this case we'll try to answer some questions about, wich title is the most played,top rated ones and titles publisher by the owner of STEAM(Valve)
 
 ·To obtain aditional information by means of web scraping and merge it with the dataset, in order to comare and get conclusions.
