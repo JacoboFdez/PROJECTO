@@ -6,6 +6,8 @@ Steam is a digital video game distribution platform developed by Valve Corporati
 It is used by both small independent developers and large software corporations for the distribution of video games and related multimedia material.
 
 In order to enjoy all these services, it is necessary to be registered with the service by creating a free account, to which the video games purchased by the player are linked. These games can be both games offered for purchase on the platform itself and certain games purchased in physical stores.
+
+
 ![](images/Pagina%20principal.webp)
 
 # OBJECTIVES
@@ -20,6 +22,8 @@ In order to enjoy all these services, it is necessary to be registered with the 
 
 
             Wich games are the most rated on the steam platform? 
+
+            
 ![](images/save_as_png.png)
 On top we can make us an idea about top 10 games on steam by rating.
 
