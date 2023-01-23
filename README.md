@@ -23,7 +23,7 @@ In order to enjoy all these services, it is necessary to be registered with the 
 
             Wich games are the most rated on the steam platform? 
 
-            
+
 ![](images/save_as_png.png)
 On top we can make us an idea about top 10 games on steam by rating.
 
@@ -36,6 +36,14 @@ On top we can make us an idea about top 10 games on steam by rating.
 ·The following libraries are used: Os, Pandas, Sys, Requests, BeautifulSoup and Seaborn.
 ![](images/Steam-Mosaic-Games.webp)
 
+# LIBRARIES
+
+·pandas
+·numpy
+·matplotlib
+·seaborn
+·selenium
+·beautifulSoup
 
 # CONCLUSIONS
 As we can see in this project, a large majority of the titles offered by the platform are both developed and published by themselves.
