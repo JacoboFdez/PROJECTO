@@ -39,11 +39,17 @@ On top we can make us an idea about top 10 games on steam by rating.
 # LIBRARIES
 
 ·pandas
+
 ·numpy
+
 ·matplotlib
+
 ·seaborn
+
 ·selenium
+
 ·beautifulSoup
+
 
 # CONCLUSIONS
 As we can see in this project, a large majority of the titles offered by the platform are both developed and published by themselves.
